@@ -1,0 +1,11 @@
+langchain
+openai
+pandas
+pytesseract
+Pillow
+python-docx
+streamlit
+wikipedia-api
+chromadb
+wikipedia
+langchain_community
